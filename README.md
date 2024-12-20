@@ -61,7 +61,7 @@ jupyter
 ## Installation
 bash
 # Clone the repository
-git clone https://github.com/saarib2405/Machine-Learning.git
+git clone https://github.com/SripriyaJaju/Machine-Learning.git
 
 # Navigate to the project directory
 cd ml-algorithms
